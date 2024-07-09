@@ -1,4 +1,6 @@
 <<<<<<< HEAD
+Charlie's update 3
+<<<<<<< HEAD
 Charlie's update 2
 =======
 <<<<<<< HEAD
